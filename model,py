@@ -1,0 +1,9 @@
+def recommend_plan(bmi):
+    if bmi < 18.5:
+        return "Underweight: Eat high-calorie food, strength training"
+    elif 18.5 <= bmi < 25:
+        return "Normal: Maintain balanced diet and regular exercise"
+    elif 25 <= bmi < 30:
+        return "Overweight: Cardio + calorie deficit diet"
+    else:
+        return "Obese: Strict diet plan + regular workout + doctor advice"
