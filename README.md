@@ -12,7 +12,7 @@ health-fitness-tracker/
 
 | S.No | Content Type | Description | Link |
 |------|-------------|-------------|------|
-| 1 | 💻 Source Code | Complete health and fitness tracker project code | |
+| 1 | 💻 Source Code | Complete health and fitness tracker project code | https://github.com/sristhivashishta-tech/health-fitness-tracker-python-beginner-projects.git|
 | 2 | 📄 Project Report | Full project documentation report in PDF format | |
 | 3 | 📜 Course Certificate | AI / Python course completion certificate |  |
 | 4 | 📊 PPT Presentation | Final project PPT for presentation |  |
