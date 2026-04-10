@@ -14,6 +14,6 @@ health-fitness-tracker/
 |------|-------------|-------------|------|
 | 1 | 💻 Source Code | Complete health and fitness tracker project code | https://github.com/sristhivashishta-tech/health-fitness-tracker-python-beginner-projects.git|
 | 2 | 📄 Project Report | Full project documentation report in PDF format |https://drive.google.com/file/d/1Gzw5ke7UjDK0FpPmGkTsjCtuq2a7g6sS/view?usp=drivesdk |
-| 3 | 📜 Course Certificate | AI / Python course completion certificate |  |
-| 4 | 📜 Course report  | AI / Python course completion certificate |  |
+| 3 | 📜 Course Certificate | DBMS course completion certificate |  |
+| 4 | 📜 Course report  | DBMS  course completion certificate |  |
 | s | 📊 PPT Presentation | Final project PPT for presentation | https://drive.google.com/file/d/1gPKIFjczL-IgJrKSSbzlhRjAmYf1r7Tn/view?usp=drivesdk |
